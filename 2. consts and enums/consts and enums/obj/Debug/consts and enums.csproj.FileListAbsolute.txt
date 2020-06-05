@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2012\Projects\consts and enums\consts and enums\bin\Debug\consts and enums.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\consts and enums\consts and enums\bin\Debug\consts and enums.exe
+c:\users\admin\documents\visual studio 2012\Projects\consts and enums\consts and enums\bin\Debug\consts and enums.pdb
+c:\users\admin\documents\visual studio 2012\Projects\consts and enums\consts and enums\obj\Debug\consts and enums.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\consts and enums\consts and enums\obj\Debug\consts and enums.exe
+c:\users\admin\documents\visual studio 2012\Projects\consts and enums\consts and enums\obj\Debug\consts and enums.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\consts and enums\consts and enums\bin\Debug\consts and enums.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\consts and enums\consts and enums\obj\Debug\consts and enums.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\consts and enums\consts and enums\obj\Debug\consts and enums.pdb
+E:\CS\0. Samples\C#\2. consts and enums\consts and enums\bin\Debug\consts and enums.exe.config
+E:\CS\0. Samples\C#\2. consts and enums\consts and enums\obj\Debug\consts and enums.exe
+E:\CS\0. Samples\C#\2. consts and enums\consts and enums\obj\Debug\consts and enums.pdb
