@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2012\Projects\stack and queue\stack and queue\bin\Debug\stack and queue.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\stack and queue\stack and queue\bin\Debug\stack and queue.exe
+c:\users\admin\documents\visual studio 2012\Projects\stack and queue\stack and queue\bin\Debug\stack and queue.pdb
+c:\users\admin\documents\visual studio 2012\Projects\stack and queue\stack and queue\obj\Debug\stack and queue.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\stack and queue\stack and queue\obj\Debug\stack and queue.exe
+c:\users\admin\documents\visual studio 2012\Projects\stack and queue\stack and queue\obj\Debug\stack and queue.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\stack and queue\stack and queue\bin\Debug\stack and queue.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\stack and queue\stack and queue\obj\Debug\stack and queue.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\stack and queue\stack and queue\obj\Debug\stack and queue.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\stack and queue\stack and queue\bin\Debug\stack and queue.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\stack and queue\stack and queue\bin\Debug\stack and queue.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\stack and queue\stack and queue\obj\Debug\stack and queue.csprojResolveAssemblyReference.cache

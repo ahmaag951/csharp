@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\using and dispose overriding\using and dispose overriding\bin\Debug\using and dispose overriding.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\using and dispose overriding\using and dispose overriding\bin\Debug\using and dispose overriding.exe
+c:\users\admin\documents\visual studio 2012\Projects\using and dispose overriding\using and dispose overriding\bin\Debug\using and dispose overriding.pdb
+c:\users\admin\documents\visual studio 2012\Projects\using and dispose overriding\using and dispose overriding\obj\Debug\using and dispose overriding.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\using and dispose overriding\using and dispose overriding\obj\Debug\using and dispose overriding.exe
+c:\users\admin\documents\visual studio 2012\Projects\using and dispose overriding\using and dispose overriding\obj\Debug\using and dispose overriding.pdb

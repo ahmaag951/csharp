@@ -1,0 +1,17 @@
+c:\users\admin\documents\visual studio 2012\Projects\test delegates predicates\test delegates predicates\bin\Debug\test delegates predicates.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\test delegates predicates\test delegates predicates\bin\Debug\test delegates predicates.exe
+c:\users\admin\documents\visual studio 2012\Projects\test delegates predicates\test delegates predicates\bin\Debug\test delegates predicates.pdb
+c:\users\admin\documents\visual studio 2012\Projects\test delegates predicates\test delegates predicates\obj\Debug\test delegates predicates.exe
+c:\users\admin\documents\visual studio 2012\Projects\test delegates predicates\test delegates predicates\obj\Debug\test delegates predicates.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\c#\test delegates predicates\test delegates predicates\bin\Debug\test delegates predicates.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\c#\test delegates predicates\test delegates predicates\obj\Debug\test delegates predicates.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\c#\test delegates predicates\test delegates predicates\obj\Debug\test delegates predicates.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\c#\test delegates predicates\test delegates predicates\bin\Debug\test delegates predicates.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\c#\test delegates predicates\test delegates predicates\bin\Debug\test delegates predicates.pdb
+F:\CS\Samples\Backend\0.C#\17.test delegates predicates\test delegates predicates\bin\Debug\test delegates predicates.exe.config
+F:\CS\Samples\Backend\0.C#\17.test delegates predicates\test delegates predicates\bin\Debug\test delegates predicates.exe
+F:\CS\Samples\Backend\0.C#\17.test delegates predicates\test delegates predicates\bin\Debug\test delegates predicates.pdb
+F:\CS\Samples\Backend\0.C#\17.test delegates predicates\test delegates predicates\obj\Debug\test delegates predicates.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\0.C#\17.test delegates predicates\test delegates predicates\obj\Debug\test delegates predicates.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\0.C#\17.test delegates predicates\test delegates predicates\obj\Debug\test delegates predicates.exe
+F:\CS\Samples\Backend\0.C#\17.test delegates predicates\test delegates predicates\obj\Debug\test delegates predicates.pdb

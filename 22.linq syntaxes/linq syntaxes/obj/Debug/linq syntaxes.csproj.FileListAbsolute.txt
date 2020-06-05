@@ -1,0 +1,13 @@
+c:\users\user1\documents\visual studio 2017\Projects\linq syntaxes\linq syntaxes\bin\Debug\linq syntaxes.exe.config
+c:\users\user1\documents\visual studio 2017\Projects\linq syntaxes\linq syntaxes\bin\Debug\linq syntaxes.exe
+c:\users\user1\documents\visual studio 2017\Projects\linq syntaxes\linq syntaxes\bin\Debug\linq syntaxes.pdb
+c:\users\user1\documents\visual studio 2017\Projects\linq syntaxes\linq syntaxes\obj\Debug\linq syntaxes.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2017\Projects\linq syntaxes\linq syntaxes\obj\Debug\linq syntaxes.exe
+c:\users\user1\documents\visual studio 2017\Projects\linq syntaxes\linq syntaxes\obj\Debug\linq syntaxes.pdb
+F:\CS\Samples\Backend\0.C#\22.linq syntaxes\linq syntaxes\bin\Debug\linq syntaxes.exe.config
+F:\CS\Samples\Backend\0.C#\22.linq syntaxes\linq syntaxes\bin\Debug\linq syntaxes.exe
+F:\CS\Samples\Backend\0.C#\22.linq syntaxes\linq syntaxes\bin\Debug\linq syntaxes.pdb
+F:\CS\Samples\Backend\0.C#\22.linq syntaxes\linq syntaxes\obj\Debug\linq syntaxes.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\0.C#\22.linq syntaxes\linq syntaxes\obj\Debug\linq syntaxes.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\0.C#\22.linq syntaxes\linq syntaxes\obj\Debug\linq syntaxes.exe
+F:\CS\Samples\Backend\0.C#\22.linq syntaxes\linq syntaxes\obj\Debug\linq syntaxes.pdb

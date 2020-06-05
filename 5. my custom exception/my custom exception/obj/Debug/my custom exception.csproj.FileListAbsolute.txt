@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2012\Projects\my custom exception\my custom exception\bin\Debug\my custom exception.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\my custom exception\my custom exception\bin\Debug\my custom exception.exe
+c:\users\admin\documents\visual studio 2012\Projects\my custom exception\my custom exception\bin\Debug\my custom exception.pdb
+c:\users\admin\documents\visual studio 2012\Projects\my custom exception\my custom exception\obj\Debug\my custom exception.exe
+c:\users\admin\documents\visual studio 2012\Projects\my custom exception\my custom exception\obj\Debug\my custom exception.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\my custom exception\my custom exception\bin\Debug\my custom exception.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\my custom exception\my custom exception\obj\Debug\my custom exception.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\my custom exception\my custom exception\obj\Debug\my custom exception.pdb
+F:\CS\Samples\Backend\0.C#\5. my custom exception\my custom exception\bin\Debug\my custom exception.exe.config
+F:\CS\Samples\Backend\0.C#\5. my custom exception\my custom exception\bin\Debug\my custom exception.exe
+F:\CS\Samples\Backend\0.C#\5. my custom exception\my custom exception\bin\Debug\my custom exception.pdb
+F:\CS\Samples\Backend\0.C#\5. my custom exception\my custom exception\obj\Debug\my custom exception.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\0.C#\5. my custom exception\my custom exception\obj\Debug\my custom exception.exe
+F:\CS\Samples\Backend\0.C#\5. my custom exception\my custom exception\obj\Debug\my custom exception.pdb

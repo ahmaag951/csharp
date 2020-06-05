@@ -1,0 +1,15 @@
+c:\users\admin\documents\visual studio 2013\Projects\try parse\try parse\bin\Debug\try parse.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\try parse\try parse\bin\Debug\try parse.exe
+c:\users\admin\documents\visual studio 2013\Projects\try parse\try parse\bin\Debug\try parse.pdb
+c:\users\admin\documents\visual studio 2013\Projects\try parse\try parse\obj\Debug\try parse.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\try parse\try parse\obj\Debug\try parse.exe
+c:\users\admin\documents\visual studio 2013\Projects\try parse\try parse\obj\Debug\try parse.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\try parse\try parse\bin\Debug\try parse.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\try parse\try parse\obj\Debug\try parse.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\try parse\try parse\obj\Debug\try parse.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\try parse\try parse\bin\Debug\try parse.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\try parse\try parse\bin\Debug\try parse.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\try parse\try parse\obj\Debug\try parse.csprojResolveAssemblyReference.cache
+E:\CS\0. Samples\C#\11. try parse\try parse\bin\Debug\try parse.exe.config
+E:\CS\0. Samples\C#\11. try parse\try parse\obj\Debug\try parse.exe
+E:\CS\0. Samples\C#\11. try parse\try parse\obj\Debug\try parse.pdb

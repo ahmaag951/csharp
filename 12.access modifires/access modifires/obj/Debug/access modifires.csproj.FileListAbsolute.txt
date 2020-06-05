@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2012\Projects\access modifires\access modifires\bin\Debug\access modifires.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\c#\access modifires\access modifires\bin\Debug\access modifires.exe.config
+E:\CS\0. Samples\Projects\0. done\access modifires\access modifires\bin\Debug\access modifires.exe.config
+F:\CS\Samples\Backend\0.C#\12.access modifires\access modifires\bin\Debug\access modifires.exe.config
+F:\CS\Samples\Backend\0.C#\12.access modifires\access modifires\bin\Debug\access modifires.exe
+F:\CS\Samples\Backend\0.C#\12.access modifires\access modifires\bin\Debug\access modifires.pdb
+F:\CS\Samples\Backend\0.C#\12.access modifires\access modifires\obj\Debug\access modifires.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\0.C#\12.access modifires\access modifires\obj\Debug\access modifires.exe
+F:\CS\Samples\Backend\0.C#\12.access modifires\access modifires\obj\Debug\access modifires.pdb

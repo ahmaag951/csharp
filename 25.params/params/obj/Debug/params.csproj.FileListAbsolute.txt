@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\params\params\bin\Debug\@params.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\params\params\obj\Debug\params.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\params\params\bin\Debug\@params.exe
+c:\users\admin\documents\visual studio 2012\Projects\params\params\bin\Debug\@params.pdb
+c:\users\admin\documents\visual studio 2012\Projects\params\params\obj\Debug\@params.exe
+c:\users\admin\documents\visual studio 2012\Projects\params\params\obj\Debug\@params.pdb

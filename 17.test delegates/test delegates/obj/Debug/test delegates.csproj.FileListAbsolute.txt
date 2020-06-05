@@ -1,0 +1,18 @@
+c:\users\admin\documents\visual studio 2012\Projects\test delegates\test delegates\bin\Debug\test delegates.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\test delegates\test delegates\bin\Debug\test delegates.exe
+c:\users\admin\documents\visual studio 2012\Projects\test delegates\test delegates\bin\Debug\test delegates.pdb
+c:\users\admin\documents\visual studio 2012\Projects\test delegates\test delegates\obj\Debug\test delegates.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\test delegates\test delegates\obj\Debug\test delegates.exe
+c:\users\admin\documents\visual studio 2012\Projects\test delegates\test delegates\obj\Debug\test delegates.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\c#\test delegates\test delegates\bin\Debug\test delegates.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\c#\test delegates\test delegates\obj\Debug\test delegates.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\c#\test delegates\test delegates\obj\Debug\test delegates.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\c#\test delegates\test delegates\bin\Debug\test delegates.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\c#\test delegates\test delegates\bin\Debug\test delegates.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\c#\test delegates\test delegates\obj\Debug\test delegates.csprojResolveAssemblyReference.cache
+G:\d\CS\0. Samples\C#\test delegates\test delegates\bin\Debug\test delegates.exe.config
+G:\d\CS\0. Samples\C#\test delegates\test delegates\bin\Debug\test delegates.exe
+G:\d\CS\0. Samples\C#\test delegates\test delegates\bin\Debug\test delegates.pdb
+G:\d\CS\0. Samples\C#\test delegates\test delegates\obj\Debug\test delegates.csprojAssemblyReference.cache
+G:\d\CS\0. Samples\C#\test delegates\test delegates\obj\Debug\test delegates.exe
+G:\d\CS\0. Samples\C#\test delegates\test delegates\obj\Debug\test delegates.pdb

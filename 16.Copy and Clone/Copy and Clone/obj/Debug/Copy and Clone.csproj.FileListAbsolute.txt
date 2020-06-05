@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Copy and Clone\Copy and Clone\bin\Debug\Copy and Clone.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Copy and Clone\Copy and Clone\bin\Debug\Copy and Clone.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Copy and Clone\Copy and Clone\bin\Debug\Copy and Clone.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Copy and Clone\Copy and Clone\obj\Debug\Copy and Clone.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Copy and Clone\Copy and Clone\obj\Debug\Copy and Clone.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Copy and Clone\Copy and Clone\obj\Debug\Copy and Clone.pdb

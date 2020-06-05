@@ -1,0 +1,2 @@
+c:\users\admin\documents\visual studio 2012\Projects\array list and list and their data types\array list and list and their data types\bin\Debug\array list and list and their data types.exe.config
+E:\CS\0. Samples\Projects\0. done\array list and list and their data types\array list and list and their data types\bin\Debug\array list and list and their data types.exe.config

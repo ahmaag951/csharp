@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "access modifires", "access modifires\access modifires.csproj", "{6A063117-F589-4402-8721-84B504F6771D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Another Project", "Another Project\Another Project.csproj", "{B1DA00C6-FB8B-4FD0-8E75-A52365FB77E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A063117-F589-4402-8721-84B504F6771D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A063117-F589-4402-8721-84B504F6771D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A063117-F589-4402-8721-84B504F6771D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A063117-F589-4402-8721-84B504F6771D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1DA00C6-FB8B-4FD0-8E75-A52365FB77E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DA00C6-FB8B-4FD0-8E75-A52365FB77E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DA00C6-FB8B-4FD0-8E75-A52365FB77E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DA00C6-FB8B-4FD0-8E75-A52365FB77E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

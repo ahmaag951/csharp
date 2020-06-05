@@ -1,0 +1,13 @@
+c:\users\user1\documents\visual studio 2017\Projects\the power of linq\the power of linq\bin\Debug\the power of linq.exe.config
+c:\users\user1\documents\visual studio 2017\Projects\the power of linq\the power of linq\bin\Debug\the power of linq.exe
+c:\users\user1\documents\visual studio 2017\Projects\the power of linq\the power of linq\bin\Debug\the power of linq.pdb
+c:\users\user1\documents\visual studio 2017\Projects\the power of linq\the power of linq\obj\Debug\the power of linq.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2017\Projects\the power of linq\the power of linq\obj\Debug\the power of linq.exe
+c:\users\user1\documents\visual studio 2017\Projects\the power of linq\the power of linq\obj\Debug\the power of linq.pdb
+F:\CS\Samples\Backend\0.C#\20.the power of linq\the power of linq\bin\Debug\the power of linq.exe.config
+F:\CS\Samples\Backend\0.C#\20.the power of linq\the power of linq\bin\Debug\the power of linq.exe
+F:\CS\Samples\Backend\0.C#\20.the power of linq\the power of linq\bin\Debug\the power of linq.pdb
+F:\CS\Samples\Backend\0.C#\20.the power of linq\the power of linq\obj\Debug\the power of linq.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\0.C#\20.the power of linq\the power of linq\obj\Debug\the power of linq.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\0.C#\20.the power of linq\the power of linq\obj\Debug\the power of linq.exe
+F:\CS\Samples\Backend\0.C#\20.the power of linq\the power of linq\obj\Debug\the power of linq.pdb

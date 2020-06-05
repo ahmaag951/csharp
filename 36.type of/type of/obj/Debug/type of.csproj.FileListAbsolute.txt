@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2012\Projects\type of\type of\bin\Debug\type of.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\type of\type of\bin\Debug\type of.exe
+c:\users\admin\documents\visual studio 2012\Projects\type of\type of\bin\Debug\type of.pdb
+c:\users\admin\documents\visual studio 2012\Projects\type of\type of\obj\Debug\type of.exe
+c:\users\admin\documents\visual studio 2012\Projects\type of\type of\obj\Debug\type of.pdb
+F:\CS\Samples\Backend\0.C#\36.type of\type of\bin\Debug\type of.exe.config
+F:\CS\Samples\Backend\0.C#\36.type of\type of\bin\Debug\type of.exe
+F:\CS\Samples\Backend\0.C#\36.type of\type of\bin\Debug\type of.pdb
+F:\CS\Samples\Backend\0.C#\36.type of\type of\obj\Debug\type of.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\0.C#\36.type of\type of\obj\Debug\type of.exe
+F:\CS\Samples\Backend\0.C#\36.type of\type of\obj\Debug\type of.pdb

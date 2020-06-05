@@ -1,0 +1,15 @@
+c:\users\admin\documents\visual studio 2012\Projects\abstract class and interface diffrences\abstract class and interface diffrences\bin\Debug\abstract class and interface diffrences.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\abstract class and interface diffrences\abstract class and interface diffrences\bin\Debug\abstract class and interface diffrences.exe
+c:\users\admin\documents\visual studio 2012\Projects\abstract class and interface diffrences\abstract class and interface diffrences\bin\Debug\abstract class and interface diffrences.pdb
+c:\users\admin\documents\visual studio 2012\Projects\abstract class and interface diffrences\abstract class and interface diffrences\obj\Debug\abstract class and interface diffrences.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\abstract class and interface diffrences\abstract class and interface diffrences\obj\Debug\abstract class and interface diffrences.exe
+c:\users\admin\documents\visual studio 2012\Projects\abstract class and interface diffrences\abstract class and interface diffrences\obj\Debug\abstract class and interface diffrences.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\the abstract class\abstract class and interface diffrences\bin\Debug\abstract class and interface diffrences.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\the abstract class\abstract class and interface diffrences\obj\Debug\abstract class and interface diffrences.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\the abstract class\abstract class and interface diffrences\obj\Debug\abstract class and interface diffrences.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\the abstract class\abstract class and interface diffrences\bin\Debug\abstract class and interface diffrences.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\the abstract class\abstract class and interface diffrences\bin\Debug\abstract class and interface diffrences.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\the abstract class\abstract class and interface diffrences\obj\Debug\abstract class and interface diffrences.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\c#\the abstract class\abstract class and interface diffrences\bin\Debug\abstract class and interface diffrences.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\c#\the abstract class\abstract class and interface diffrences\obj\Debug\abstract class and interface diffrences.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\c#\the abstract class\abstract class and interface diffrences\obj\Debug\abstract class and interface diffrences.pdb

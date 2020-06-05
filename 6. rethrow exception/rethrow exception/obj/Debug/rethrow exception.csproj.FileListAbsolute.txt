@@ -1,0 +1,15 @@
+c:\users\admin\documents\visual studio 2012\Projects\rethrow exception\rethrow exception\bin\Debug\rethrow exception.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\rethrow exception\rethrow exception\bin\Debug\rethrow exception.exe
+c:\users\admin\documents\visual studio 2012\Projects\rethrow exception\rethrow exception\bin\Debug\rethrow exception.pdb
+c:\users\admin\documents\visual studio 2012\Projects\rethrow exception\rethrow exception\obj\Debug\rethrow exception.exe
+c:\users\admin\documents\visual studio 2012\Projects\rethrow exception\rethrow exception\obj\Debug\rethrow exception.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\6. rethrow exception\rethrow exception\bin\Debug\rethrow exception.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\6. rethrow exception\rethrow exception\obj\Debug\rethrow exception.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\6. rethrow exception\rethrow exception\obj\Debug\rethrow exception.pdb
+F:\CS\Samples\Backend\0.C#\6. rethrow exception\rethrow exception\bin\Debug\rethrow exception.exe.config
+F:\CS\Samples\Backend\0.C#\6. rethrow exception\rethrow exception\bin\Debug\rethrow exception.exe
+F:\CS\Samples\Backend\0.C#\6. rethrow exception\rethrow exception\bin\Debug\rethrow exception.pdb
+F:\CS\Samples\Backend\0.C#\6. rethrow exception\rethrow exception\obj\Debug\rethrow exception.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\0.C#\6. rethrow exception\rethrow exception\obj\Debug\rethrow exception.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\0.C#\6. rethrow exception\rethrow exception\obj\Debug\rethrow exception.exe
+F:\CS\Samples\Backend\0.C#\6. rethrow exception\rethrow exception\obj\Debug\rethrow exception.pdb

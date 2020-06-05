@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\remove item from list foreach\remove item from list foreach\bin\Debug\remove item from list foreach.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\remove item from list foreach\remove item from list foreach\bin\Debug\remove item from list foreach.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\remove item from list foreach\remove item from list foreach\bin\Debug\remove item from list foreach.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\remove item from list foreach\remove item from list foreach\obj\Debug\remove item from list foreach.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\remove item from list foreach\remove item from list foreach\obj\Debug\remove item from list foreach.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\remove item from list foreach\remove item from list foreach\obj\Debug\remove item from list foreach.pdb
+F:\CS\Samples\Backend\0.C#\30.remove item from list foreach and linq\remove item from list foreach\bin\Debug\remove item from list foreach.exe.config
+F:\CS\Samples\Backend\0.C#\30.remove item from list foreach and linq\remove item from list foreach\bin\Debug\remove item from list foreach.exe
+F:\CS\Samples\Backend\0.C#\30.remove item from list foreach and linq\remove item from list foreach\bin\Debug\remove item from list foreach.pdb
+F:\CS\Samples\Backend\0.C#\30.remove item from list foreach and linq\remove item from list foreach\obj\Debug\remove item from list foreach.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\0.C#\30.remove item from list foreach and linq\remove item from list foreach\obj\Debug\remove item from list foreach.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\0.C#\30.remove item from list foreach and linq\remove item from list foreach\obj\Debug\remove item from list foreach.exe
+F:\CS\Samples\Backend\0.C#\30.remove item from list foreach and linq\remove item from list foreach\obj\Debug\remove item from list foreach.pdb

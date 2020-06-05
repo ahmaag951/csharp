@@ -1,0 +1,2 @@
+c:\users\admin\documents\visual studio 2012\Projects\Ploymorphysm with interfaces\Ploymorphysm with interfaces\bin\Debug\Ploymorphysm with interfaces.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\test class implements two interfaces with the same method name\Ploymorphysm with interfaces\Ploymorphysm with interfaces\bin\Debug\Ploymorphysm with interfaces.exe.config

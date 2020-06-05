@@ -1,0 +1,19 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication2 With Async Await\bin\Debug\ConsoleApplication2 With Async Await.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication2 With Async Await\bin\Debug\ConsoleApplication2 With Async Await.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication2 With Async Await\bin\Debug\ConsoleApplication2 With Async Await.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication2 With Async Await\obj\Debug\ConsoleApplication2 With Async Await.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication2 With Async Await\obj\Debug\ConsoleApplication2 With Async Await.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication2 With Async Await\obj\Debug\ConsoleApplication2 With Async Await.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Async and Await\ConsoleApplication2 With Async Await\bin\Debug\ConsoleApplication2 With Async Await.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Async and Await\ConsoleApplication2 With Async Await\obj\Debug\ConsoleApplication2 With Async Await.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Async and Await\ConsoleApplication2 With Async Await\obj\Debug\ConsoleApplication2 With Async Await.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Async and Await\ConsoleApplication2 With Async Await\bin\Debug\ConsoleApplication2 With Async Await.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Async and Await\ConsoleApplication2 With Async Await\bin\Debug\ConsoleApplication2 With Async Await.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Async and Await\ConsoleApplication2 With Async Await\obj\Debug\ConsoleApplication2 With Async Await.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\0.C#\14.Async and Await\ConsoleApplication2 With Async Await\bin\Debug\ConsoleApplication2 With Async Await.exe.config
+F:\CS\Samples\Backend\0.C#\14.Async and Await\ConsoleApplication2 With Async Await\bin\Debug\ConsoleApplication2 With Async Await.exe
+F:\CS\Samples\Backend\0.C#\14.Async and Await\ConsoleApplication2 With Async Await\bin\Debug\ConsoleApplication2 With Async Await.pdb
+F:\CS\Samples\Backend\0.C#\14.Async and Await\ConsoleApplication2 With Async Await\obj\Debug\ConsoleApplication2 With Async Await.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\0.C#\14.Async and Await\ConsoleApplication2 With Async Await\obj\Debug\ConsoleApplication2 With Async Await.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\0.C#\14.Async and Await\ConsoleApplication2 With Async Await\obj\Debug\ConsoleApplication2 With Async Await.exe
+F:\CS\Samples\Backend\0.C#\14.Async and Await\ConsoleApplication2 With Async Await\obj\Debug\ConsoleApplication2 With Async Await.pdb

@@ -1,0 +1,6 @@
+C:\Users\user1\Documents\Visual Studio 2017\Projects\ienumerable and linq\ienumerable and linq\bin\Debug\ienumerable and linq.exe.config
+C:\Users\user1\Documents\Visual Studio 2017\Projects\ienumerable and linq\ienumerable and linq\bin\Debug\ienumerable and linq.exe
+C:\Users\user1\Documents\Visual Studio 2017\Projects\ienumerable and linq\ienumerable and linq\bin\Debug\ienumerable and linq.pdb
+C:\Users\user1\Documents\Visual Studio 2017\Projects\ienumerable and linq\ienumerable and linq\obj\Debug\ienumerable and linq.csprojResolveAssemblyReference.cache
+C:\Users\user1\Documents\Visual Studio 2017\Projects\ienumerable and linq\ienumerable and linq\obj\Debug\ienumerable and linq.exe
+C:\Users\user1\Documents\Visual Studio 2017\Projects\ienumerable and linq\ienumerable and linq\obj\Debug\ienumerable and linq.pdb

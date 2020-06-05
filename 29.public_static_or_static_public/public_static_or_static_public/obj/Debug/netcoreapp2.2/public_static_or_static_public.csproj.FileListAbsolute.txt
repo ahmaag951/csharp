@@ -1,0 +1,14 @@
+C:\Users\a.ezzat.APEXUNITED\source\repos\public_static_or_static_public\public_static_or_static_public\bin\Debug\netcoreapp2.2\public_static_or_static_public.deps.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\public_static_or_static_public\public_static_or_static_public\bin\Debug\netcoreapp2.2\public_static_or_static_public.runtimeconfig.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\public_static_or_static_public\public_static_or_static_public\bin\Debug\netcoreapp2.2\public_static_or_static_public.runtimeconfig.dev.json
+C:\Users\a.ezzat.APEXUNITED\source\repos\public_static_or_static_public\public_static_or_static_public\bin\Debug\netcoreapp2.2\public_static_or_static_public.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\public_static_or_static_public\public_static_or_static_public\bin\Debug\netcoreapp2.2\public_static_or_static_public.pdb
+C:\Users\a.ezzat.APEXUNITED\source\repos\public_static_or_static_public\public_static_or_static_public\obj\Debug\netcoreapp2.2\public_static_or_static_public.csprojAssemblyReference.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\public_static_or_static_public\public_static_or_static_public\obj\Debug\netcoreapp2.2\public_static_or_static_public.csproj.CoreCompileInputs.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\public_static_or_static_public\public_static_or_static_public\obj\Debug\netcoreapp2.2\public_static_or_static_public.RazorAssemblyInfo.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\public_static_or_static_public\public_static_or_static_public\obj\Debug\netcoreapp2.2\public_static_or_static_public.RazorAssemblyInfo.cs
+C:\Users\a.ezzat.APEXUNITED\source\repos\public_static_or_static_public\public_static_or_static_public\obj\Debug\netcoreapp2.2\public_static_or_static_public.AssemblyInfoInputs.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\public_static_or_static_public\public_static_or_static_public\obj\Debug\netcoreapp2.2\public_static_or_static_public.AssemblyInfo.cs
+C:\Users\a.ezzat.APEXUNITED\source\repos\public_static_or_static_public\public_static_or_static_public\obj\Debug\netcoreapp2.2\public_static_or_static_public.RazorTargetAssemblyInfo.cache
+C:\Users\a.ezzat.APEXUNITED\source\repos\public_static_or_static_public\public_static_or_static_public\obj\Debug\netcoreapp2.2\public_static_or_static_public.dll
+C:\Users\a.ezzat.APEXUNITED\source\repos\public_static_or_static_public\public_static_or_static_public\obj\Debug\netcoreapp2.2\public_static_or_static_public.pdb

@@ -1,0 +1,13 @@
+C:\Users\a.ezzat\source\repos\func\func\bin\Debug\func.exe.config
+C:\Users\a.ezzat\source\repos\func\func\bin\Debug\func.exe
+C:\Users\a.ezzat\source\repos\func\func\bin\Debug\func.pdb
+C:\Users\a.ezzat\source\repos\func\func\obj\Debug\func.csprojResolveAssemblyReference.cache
+C:\Users\a.ezzat\source\repos\func\func\obj\Debug\func.csproj.CoreCompileInputs.cache
+C:\Users\a.ezzat\source\repos\func\func\obj\Debug\func.exe
+C:\Users\a.ezzat\source\repos\func\func\obj\Debug\func.pdb
+G:\d\CS\0. Samples\source\repos\func\func\bin\Debug\func.exe.config
+G:\d\CS\0. Samples\source\repos\func\func\bin\Debug\func.exe
+G:\d\CS\0. Samples\source\repos\func\func\bin\Debug\func.pdb
+G:\d\CS\0. Samples\source\repos\func\func\obj\Debug\func.csprojAssemblyReference.cache
+G:\d\CS\0. Samples\source\repos\func\func\obj\Debug\func.exe
+G:\d\CS\0. Samples\source\repos\func\func\obj\Debug\func.pdb

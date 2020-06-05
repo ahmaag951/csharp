@@ -1,0 +1,13 @@
+c:\users\user1\documents\visual studio 2017\Projects\to list importance\to list importance\bin\Debug\to list importance.exe.config
+c:\users\user1\documents\visual studio 2017\Projects\to list importance\to list importance\bin\Debug\to list importance.exe
+c:\users\user1\documents\visual studio 2017\Projects\to list importance\to list importance\bin\Debug\to list importance.pdb
+c:\users\user1\documents\visual studio 2017\Projects\to list importance\to list importance\obj\Debug\to list importance.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2017\Projects\to list importance\to list importance\obj\Debug\to list importance.exe
+c:\users\user1\documents\visual studio 2017\Projects\to list importance\to list importance\obj\Debug\to list importance.pdb
+F:\CS\Samples\Backend\0.C#\34.to list importance\to list importance\bin\Debug\to list importance.exe.config
+F:\CS\Samples\Backend\0.C#\34.to list importance\to list importance\bin\Debug\to list importance.exe
+F:\CS\Samples\Backend\0.C#\34.to list importance\to list importance\bin\Debug\to list importance.pdb
+F:\CS\Samples\Backend\0.C#\34.to list importance\to list importance\obj\Debug\to list importance.csprojResolveAssemblyReference.cache
+F:\CS\Samples\Backend\0.C#\34.to list importance\to list importance\obj\Debug\to list importance.csproj.CoreCompileInputs.cache
+F:\CS\Samples\Backend\0.C#\34.to list importance\to list importance\obj\Debug\to list importance.exe
+F:\CS\Samples\Backend\0.C#\34.to list importance\to list importance\obj\Debug\to list importance.pdb
