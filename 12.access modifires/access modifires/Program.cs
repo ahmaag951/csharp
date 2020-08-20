@@ -27,8 +27,7 @@ namespace access_modifires
         int PrivateInt = 5;
         public int PublicInt = 4;
         protected int ProtectedInt = 3;
-        internal int Internalnt = 6;
-
+        internal int Internalnt = 6;        
     }
 
     // The class by default is internal
@@ -56,6 +55,11 @@ namespace access_modifires
     {
         // you can create private class in another class
         private class PrivateClass
+        {
+
+        }
+
+        class Test
         {
 
         }
