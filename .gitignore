@@ -351,3 +351,5 @@ MigrationBackup/
 .ionide/
 *.suo
 */.vs
+*/.vs/
+*/.vs/*
