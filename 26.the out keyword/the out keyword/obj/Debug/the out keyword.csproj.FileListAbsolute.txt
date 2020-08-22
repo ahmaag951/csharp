@@ -1,6 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\the out keyword\the out keyword\bin\Debug\the out keyword.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\the out keyword\the out keyword\bin\Debug\the out keyword.exe
-c:\users\admin\documents\visual studio 2012\Projects\the out keyword\the out keyword\bin\Debug\the out keyword.pdb
-c:\users\admin\documents\visual studio 2012\Projects\the out keyword\the out keyword\obj\Debug\the out keyword.csprojResolveAssemblyReference.cache
-c:\users\admin\documents\visual studio 2012\Projects\the out keyword\the out keyword\obj\Debug\the out keyword.exe
-c:\users\admin\documents\visual studio 2012\Projects\the out keyword\the out keyword\obj\Debug\the out keyword.pdb

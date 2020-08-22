@@ -1,6 +1,0 @@
-c:\users\user1\documents\visual studio 2017\Projects\yield return\yield return\bin\Debug\yield return.exe.config
-c:\users\user1\documents\visual studio 2017\Projects\yield return\yield return\bin\Debug\yield return.exe
-c:\users\user1\documents\visual studio 2017\Projects\yield return\yield return\bin\Debug\yield return.pdb
-c:\users\user1\documents\visual studio 2017\Projects\yield return\yield return\obj\Debug\yield return.csprojResolveAssemblyReference.cache
-c:\users\user1\documents\visual studio 2017\Projects\yield return\yield return\obj\Debug\yield return.exe
-c:\users\user1\documents\visual studio 2017\Projects\yield return\yield return\obj\Debug\yield return.pdb

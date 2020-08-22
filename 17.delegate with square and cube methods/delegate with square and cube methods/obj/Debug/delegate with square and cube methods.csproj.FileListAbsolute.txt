@@ -1,6 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\delegate with square and cube methods\delegate with square and cube methods\bin\Debug\delegate with square and cube methods.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\delegate with square and cube methods\delegate with square and cube methods\bin\Debug\delegate with square and cube methods.exe
-c:\users\admin\documents\visual studio 2012\Projects\delegate with square and cube methods\delegate with square and cube methods\bin\Debug\delegate with square and cube methods.pdb
-c:\users\admin\documents\visual studio 2012\Projects\delegate with square and cube methods\delegate with square and cube methods\obj\Debug\delegate with square and cube methods.csprojResolveAssemblyReference.cache
-c:\users\admin\documents\visual studio 2012\Projects\delegate with square and cube methods\delegate with square and cube methods\obj\Debug\delegate with square and cube methods.exe
-c:\users\admin\documents\visual studio 2012\Projects\delegate with square and cube methods\delegate with square and cube methods\obj\Debug\delegate with square and cube methods.pdb

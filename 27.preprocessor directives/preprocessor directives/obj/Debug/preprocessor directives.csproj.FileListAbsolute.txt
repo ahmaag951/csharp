@@ -1,6 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\preprocessor directives\preprocessor directives\bin\Debug\preprocessor directives.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\preprocessor directives\preprocessor directives\bin\Debug\preprocessor directives.exe
-c:\users\admin\documents\visual studio 2012\Projects\preprocessor directives\preprocessor directives\bin\Debug\preprocessor directives.pdb
-c:\users\admin\documents\visual studio 2012\Projects\preprocessor directives\preprocessor directives\obj\Debug\preprocessor directives.csprojResolveAssemblyReference.cache
-c:\users\admin\documents\visual studio 2012\Projects\preprocessor directives\preprocessor directives\obj\Debug\preprocessor directives.exe
-c:\users\admin\documents\visual studio 2012\Projects\preprocessor directives\preprocessor directives\obj\Debug\preprocessor directives.pdb

@@ -1,3 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\diffrence abstract class and interface\diffrence abstract class and interface\bin\Debug\diffrence abstract class and interface.exe.config
-C:\Users\admin\Documents\Visual Studio 2012\Projects\SAMPLES\C#\diffrence abstract class and interface\diffrence abstract class and interface\bin\Debug\diffrence abstract class and interface.exe.config
-E:\CS\0. Samples\C#\3. diffrence abstract class and interface\diffrence abstract class and interface\bin\Debug\diffrence abstract class and interface.exe.config
