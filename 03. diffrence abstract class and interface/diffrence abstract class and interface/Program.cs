@@ -17,8 +17,7 @@ namespace diffrence_abstract_class_and_interface
             /*
              4. abstract class can contain any thing that the normal class can contain like 
              * fields, properties, constructors, destructors, methods, events, indexers 
-             * and interfaces can have only properties, methods, events, indexers 
-             * they can't have fields or constructors and destructors because they are specific to a particular class
+             * and interfaces can't have fields or constructors and destructors because they are specific to a particular class
              */
         }
     }

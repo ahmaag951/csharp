@@ -34,10 +34,15 @@ namespace abstract_class_and_interface_diffrences
 
         // you can't create abstract field
         //public abstract int x;
+
+        // you can create abstract property
+        public abstract int MyProperty { get; set; }
     }
 
     class ChildClass : AbstractClass
     {
+        public override int MyProperty { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
         // I had to override this method, because it's an abstract method
         // The combiler forced me to do this
         public override void AbstractMethod()

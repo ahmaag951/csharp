@@ -17,7 +17,7 @@ namespace refrence_type
             Console.WriteLine(s2.Name);
             s1.Name = "Mohd";
 
-            Console.WriteLine(s2.Name);
+            Console.WriteLine(s2.Name); // will print Mohd
 
             Console.Read();
         }

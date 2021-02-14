@@ -23,7 +23,6 @@ namespace my_custom_exception
             {
                 Console.Read();
             }
-
         }
     }
 

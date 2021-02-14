@@ -22,7 +22,7 @@ namespace concrete_class_with_virtual_method
     internal class NormalConcreteClass
     {
         public string Name { get; set; }
-        // If you remove this virtual key word no errors will happen
+
         public virtual int GetId()
         {
             return 5;

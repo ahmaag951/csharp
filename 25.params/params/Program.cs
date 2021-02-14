@@ -10,8 +10,7 @@ namespace @params
     {
         static void Main(string[] args)
         {
-            // You can't use params int[] numbers here
-            // You have to make it in a method
+            // You can't initialize params int[] numbers here, You have to make it as method parameter
             var result = AddNumbers(1, 2);
             Console.WriteLine(result);
             result = AddNumbers(1, 2, 6);

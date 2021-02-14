@@ -8,9 +8,6 @@ namespace test_extension_method.Controllers
 {
     public class HomeController : Controller
     {
-        //
-        // GET: /Home/
-
         public ActionResult Index(){
         
             var debug = "qwer".AddABC();

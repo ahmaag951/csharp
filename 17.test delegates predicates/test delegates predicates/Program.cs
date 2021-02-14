@@ -30,7 +30,12 @@ namespace test_delegates_predicates
             Console.WriteLine(predicateStartsWithA("Apple")); // returns true
             Console.WriteLine(predicateUsingDelegateStartsWithA("Apple")); // returns true
 
-
+            // another syntax for delegate is to put delegate keyword before the parameters of the method 
+            // like this for example, I just coppied the method and put delegate keyword before it
+            Predicate<string> testDelegate = delegate (string str)
+            {
+                return str.Equals(str.ToUpper());
+            };
             Console.Read();
         }
 
@@ -38,6 +43,8 @@ namespace test_delegates_predicates
         {
             return str.Equals(str.ToUpper());
         }
+
+        
 
     }
 }

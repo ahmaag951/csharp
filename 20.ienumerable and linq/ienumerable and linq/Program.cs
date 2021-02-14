@@ -19,6 +19,17 @@ namespace ienumerable_and_linq
             var testLinq = new TestLinq();
             // Now the testLinq can see all the linq extension methods, try it if you want.
             //testLinq.
+            IEnumerable firstFourLettersOfAlphabet = new[] { "a", "b", "c", "d" };
+            
+            /*
+             An IEnumerable is a list or a container which can hold some items. 
+             You can iterate through each element in the IEnumerable. You can not edit the items like adding, deleting, updating, etc.
+
+            ICollection derives from IEnumerable and extends it’s functionality to add, remove, update element in the list.
+
+            IList extends ICollection. An IList can perform all operations combined from IEnumerable and ICollection, and some more operations like 
+            inserting or removing an element in the middle of a list.
+             */
         }
     }
 

@@ -48,4 +48,18 @@ namespace three_cases_you_can_override_method_in
             return "Hello from sub sub class";
         }
     }
+
+    abstract class AbstractClass
+    {
+        public abstract string Display();
+    }
+
+    class subAbstractClass : AbstractClass
+    {
+        // 3. I could override this becase the parent is abstract method
+        public override string Display()
+        {
+            return "Hello from abstract class";
+        }
+    }
 }
