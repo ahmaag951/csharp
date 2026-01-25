@@ -1,6 +1,8 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reflection", "reflection\reflection.csproj", "{A5C29FD9-2040-4B1A-BE4C-9A257343865F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherProject", "AnotherProject\AnotherProject.csproj", "{70ABD196-C4EE-4B37-8AC0-6E17165CC1CD}"

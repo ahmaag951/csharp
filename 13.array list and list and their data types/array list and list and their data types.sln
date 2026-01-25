@@ -1,6 +1,8 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array list and list and their data types", "array list and list and their data types\array list and list and their data types.csproj", "{5A8E63DA-9C3E-4A27-ADA6-AFC2FA8EC860}"
 EndProject
 Global

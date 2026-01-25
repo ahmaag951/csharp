@@ -1,6 +1,8 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "three cases you can override method in", "three cases you can override method in\three cases you can override method in.csproj", "{5DCCCFD6-886E-441D-B13F-848941101E57}"
 EndProject
 Global
