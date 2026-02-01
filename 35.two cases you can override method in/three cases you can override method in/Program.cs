@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,7 +19,6 @@ namespace three_cases_you_can_override_method_in
             Console.Read();
         }
     }
-
 
     class MyClass
     {
