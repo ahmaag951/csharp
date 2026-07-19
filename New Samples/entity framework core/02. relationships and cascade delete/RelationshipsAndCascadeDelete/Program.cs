@@ -20,6 +20,9 @@ var author = new Author { Name = "Robert Martin" };
 var book1 = new Book { Title = "Clean Code", Author = author };
 var book2 = new Book { Title = "Clean Architecture", Author = author };
 
+author.Books.Add(book1);
+author.Books.Add(book2);
+
 // Add the root entity — EF will also insert the related Books
 db.Authors.Add(author);
 db.SaveChanges();
@@ -33,6 +36,7 @@ Console.WriteLine($"  Author: {loadedAuthor.Name}");
 foreach (var b in loadedAuthor.Books)
     Console.WriteLine($"    Book: {b.Title}");
 
+Console.WriteLine(db.ChangeTracker.DebugView.LongView);
 // ── MANY-TO-MANY ─────────────────────────────────────────────
 Console.WriteLine("\n=== MANY-TO-MANY ===");
 
@@ -69,6 +73,11 @@ db.SaveChanges();
 var userWithProfile = db.Users.Include(u => u.Profile).First(u => u.Id == user.Id);
 Console.WriteLine($"  User: {userWithProfile.Username} | Bio: {userWithProfile.Profile?.Bio}");
 
+// ── RESTRICT DELETE ──────────────────────────────────────────
+// this will throw an exception because the tag is still referenced by BookTags
+db.Tags.Remove(tagDesign);
+db.SaveChanges();
+
 // ── CASCADE DELETE ───────────────────────────────────────────
 Console.WriteLine("\n=== CASCADE DELETE ===");
 
@@ -78,4 +87,14 @@ db.Authors.Remove(loadedAuthor);
 db.SaveChanges();
 Console.WriteLine($"  Books after deleting author: {db.Books.Count()} (cascaded)");
 
+// these are all the delete behaviors available in EF Core, you have to review them
+//Cascade       → Delete children
+//SetNull       → Keep children, remove relationship
+//Restrict      → Prevent delete
+//NoAction      → Let database enforce FK
+
+//ClientCascade → EF deletes children in memory
+//ClientSetNull → EF nulls FKs in memory
+//ClientNoAction→ EF does nothing
+//DeleteBehavior.ClientNoAction
 Console.WriteLine("\nDone!");
