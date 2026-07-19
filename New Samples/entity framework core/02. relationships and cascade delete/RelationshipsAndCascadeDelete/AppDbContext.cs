@@ -21,6 +21,8 @@ public class AppDbContext : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         // MANY-TO-MANY: composite primary key on the join table
+        // composit key means the primary key is the combination of BookId + TagId.
+        // Book 1 can appear many times (once per tag), and Tag 1 can appear many times (once per book). But the pair (BookId, TagId) must be unique.
         modelBuilder.Entity<BookTag>()
             .HasKey(bt => new { bt.BookId, bt.TagId });
 

@@ -30,6 +30,7 @@ public class Tag
 }
 
 // Explicit join entity — lets you add extra columns to the join table
+// you don't have to create a separate entity for the many to many relationship, if you put the navigation properties in the two main entites the ef will make the relationship automatically
 public class BookTag
 {
     public int BookId { get; set; }
