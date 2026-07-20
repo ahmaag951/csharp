@@ -39,6 +39,18 @@ db.Employees.Add(employee);
 db.SaveChanges();
 Console.WriteLine($"Saved: {employee.FirstName} {employee.LastName}");
 
+// A Fluent API is a programming style that lets you configure or build objects by chaining method calls together.
+// It makes code more readable and expressive.
+
+//Fluent API in C# (Entity Framework Core)
+
+//In C#, the term Fluent API is commonly used in Entity Framework Core to configure database models instead of using attributes.
+
+// A Fluent API is a design pattern where methods return the same object (or another related object) so you can chain calls together, resulting in code that reads almost like a sentence.
+// It's widely used in modern frameworks such as Entity Framework Core, LINQ, and builder APIs.
+
+// Fluent API is a way to configure your EF Core model in code (inside OnModelCreating) rather than with attributes on the entity class. Here's what it does and when to prefer it, based on your own project:
+
 // ── FLUENT API — read back and show ──────────────────────────
 Console.WriteLine("\n=== READ BACK ===");
 
